@@ -1,0 +1,8 @@
+{
+  "format_version": 1,
+  "requests": [{"id":"request-01","party":"group-a","site":"square","session":"10:00","preferred":"language-x","alternatives":["language-y"],"size":12,"status":"answered"},{"id":"request-02","party":"family-b","site":"village","session":"10:30","preferred":"language-x","alternatives":[],"size":4,"status":"unserved"}],
+  "observation_windows": [{"id":"window-01","site":"square","start":"09:30","end":"11:00","observed_minutes":75,"scheduled_minutes":90,"visitor_flow":118},{"id":"window-02","site":"village","start":"09:30","end":"10:30","observed_minutes":30,"scheduled_minutes":60,"visitor_flow":64}],
+  "observed_needs": [{"id":"need-01","window":"window-01","party":"walkin-a","language":"language-y","size":3,"answered":true},{"id":"need-02","window":"window-02","party":"walkin-b","language":null,"size":2,"answered":false}],
+  "interpreters": [{"id":"interpreter-a","languages":["language-x"],"party_limit":16},{"id":"interpreter-b","languages":["language-y","language-x"],"party_limit":12}],
+  "assignments": [{"id":"assignment-01","interpreter":"interpreter-a","site":"square","start":"10:00","end":"10:35","status":"confirmed"},{"id":"assignment-02","interpreter":"interpreter-a","site":"village","start":"10:40","end":"11:00","status":"confirmed"}]
+}
