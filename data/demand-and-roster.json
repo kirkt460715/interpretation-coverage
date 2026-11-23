@@ -1,0 +1,3385 @@
+{
+  "format_version": 1,
+  "observed_windows": [
+    {
+      "id": "obs-0-square",
+      "date": "2026-08-01",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 15
+    },
+    {
+      "id": "obs-0-village",
+      "date": "2026-08-01",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 31
+    },
+    {
+      "id": "obs-0-craftyard",
+      "date": "2026-08-01",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": false,
+      "footfall": 47
+    },
+    {
+      "id": "obs-1-square",
+      "date": "2026-08-02",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 26
+    },
+    {
+      "id": "obs-1-village",
+      "date": "2026-08-02",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 42
+    },
+    {
+      "id": "obs-1-craftyard",
+      "date": "2026-08-02",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 58
+    },
+    {
+      "id": "obs-2-square",
+      "date": "2026-08-03",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 37
+    },
+    {
+      "id": "obs-2-village",
+      "date": "2026-08-03",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 53
+    },
+    {
+      "id": "obs-2-craftyard",
+      "date": "2026-08-03",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 69
+    },
+    {
+      "id": "obs-3-square",
+      "date": "2026-08-04",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 48
+    },
+    {
+      "id": "obs-3-village",
+      "date": "2026-08-04",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 64
+    },
+    {
+      "id": "obs-3-craftyard",
+      "date": "2026-08-04",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 80
+    },
+    {
+      "id": "obs-4-square",
+      "date": "2026-08-05",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 59
+    },
+    {
+      "id": "obs-4-village",
+      "date": "2026-08-05",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 75
+    },
+    {
+      "id": "obs-4-craftyard",
+      "date": "2026-08-05",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 91
+    },
+    {
+      "id": "obs-5-square",
+      "date": "2026-08-06",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 70
+    },
+    {
+      "id": "obs-5-village",
+      "date": "2026-08-06",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 86
+    },
+    {
+      "id": "obs-5-craftyard",
+      "date": "2026-08-06",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 22
+    },
+    {
+      "id": "obs-6-square",
+      "date": "2026-08-07",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 81
+    },
+    {
+      "id": "obs-6-village",
+      "date": "2026-08-07",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 17
+    },
+    {
+      "id": "obs-6-craftyard",
+      "date": "2026-08-07",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 33
+    },
+    {
+      "id": "obs-7-square",
+      "date": "2026-08-08",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 92
+    },
+    {
+      "id": "obs-7-village",
+      "date": "2026-08-08",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 28
+    },
+    {
+      "id": "obs-7-craftyard",
+      "date": "2026-08-08",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": false,
+      "footfall": 44
+    },
+    {
+      "id": "obs-8-square",
+      "date": "2026-08-09",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 23
+    },
+    {
+      "id": "obs-8-village",
+      "date": "2026-08-09",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 39
+    },
+    {
+      "id": "obs-8-craftyard",
+      "date": "2026-08-09",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 55
+    },
+    {
+      "id": "obs-9-square",
+      "date": "2026-08-10",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 34
+    },
+    {
+      "id": "obs-9-village",
+      "date": "2026-08-10",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 50
+    },
+    {
+      "id": "obs-9-craftyard",
+      "date": "2026-08-10",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 66
+    },
+    {
+      "id": "obs-10-square",
+      "date": "2026-08-11",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 45
+    },
+    {
+      "id": "obs-10-village",
+      "date": "2026-08-11",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 61
+    },
+    {
+      "id": "obs-10-craftyard",
+      "date": "2026-08-11",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 77
+    },
+    {
+      "id": "obs-11-square",
+      "date": "2026-08-12",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 56
+    },
+    {
+      "id": "obs-11-village",
+      "date": "2026-08-12",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 72
+    },
+    {
+      "id": "obs-11-craftyard",
+      "date": "2026-08-12",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 88
+    },
+    {
+      "id": "obs-12-square",
+      "date": "2026-08-13",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 67
+    },
+    {
+      "id": "obs-12-village",
+      "date": "2026-08-13",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 83
+    },
+    {
+      "id": "obs-12-craftyard",
+      "date": "2026-08-13",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 19
+    },
+    {
+      "id": "obs-13-square",
+      "date": "2026-08-14",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 78
+    },
+    {
+      "id": "obs-13-village",
+      "date": "2026-08-14",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 94
+    },
+    {
+      "id": "obs-13-craftyard",
+      "date": "2026-08-14",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 30
+    },
+    {
+      "id": "obs-14-square",
+      "date": "2026-08-15",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 89
+    },
+    {
+      "id": "obs-14-village",
+      "date": "2026-08-15",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 25
+    },
+    {
+      "id": "obs-14-craftyard",
+      "date": "2026-08-15",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": false,
+      "footfall": 41
+    },
+    {
+      "id": "obs-15-square",
+      "date": "2026-08-16",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 20
+    },
+    {
+      "id": "obs-15-village",
+      "date": "2026-08-16",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 36
+    },
+    {
+      "id": "obs-15-craftyard",
+      "date": "2026-08-16",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 52
+    },
+    {
+      "id": "obs-16-square",
+      "date": "2026-08-17",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 31
+    },
+    {
+      "id": "obs-16-village",
+      "date": "2026-08-17",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 47
+    },
+    {
+      "id": "obs-16-craftyard",
+      "date": "2026-08-17",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 63
+    },
+    {
+      "id": "obs-17-square",
+      "date": "2026-08-18",
+      "site": "square",
+      "slot": "10:00",
+      "selection_probability": 0.75,
+      "visited": true,
+      "footfall": 42
+    },
+    {
+      "id": "obs-17-village",
+      "date": "2026-08-18",
+      "site": "village",
+      "slot": "10:00",
+      "selection_probability": 0.3,
+      "visited": true,
+      "footfall": 58
+    },
+    {
+      "id": "obs-17-craftyard",
+      "date": "2026-08-18",
+      "site": "craftyard",
+      "slot": "10:00",
+      "selection_probability": 0.5,
+      "visited": true,
+      "footfall": 74
+    }
+  ],
+  "requests": [
+    {
+      "id": "req-0-0-0",
+      "window": "obs-0-square",
+      "channel": "observer",
+      "party": "g-0-0-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-0-0-1",
+      "window": "obs-0-square",
+      "channel": "desk",
+      "party": "g-0-0-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-0-0-2",
+      "window": "obs-0-square",
+      "channel": "observer",
+      "party": "g-0-0-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-0-1-0",
+      "window": "obs-0-village",
+      "channel": "observer",
+      "party": "g-0-1-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-0-1-1",
+      "window": "obs-0-village",
+      "channel": "desk",
+      "party": "g-0-1-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-0-1-2",
+      "window": "obs-0-village",
+      "channel": "observer",
+      "party": "g-0-1-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-0-2-1",
+      "window": "obs-0-craftyard",
+      "channel": "desk",
+      "party": "g-0-2-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-1-0-0",
+      "window": "obs-1-square",
+      "channel": "observer",
+      "party": "g-1-0-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-1-0",
+      "window": "obs-1-village",
+      "channel": "desk",
+      "party": "g-1-0-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-1-0-1",
+      "window": "obs-1-square",
+      "channel": "desk",
+      "party": "g-1-0-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-1-0-2",
+      "window": "obs-1-square",
+      "channel": "observer",
+      "party": "g-1-0-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-1-0-3",
+      "window": "obs-1-square",
+      "channel": "desk",
+      "party": "g-1-0-3",
+      "size": 5,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-1-1-0",
+      "window": "obs-1-village",
+      "channel": "observer",
+      "party": "g-1-1-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-1-1",
+      "window": "obs-1-village",
+      "channel": "desk",
+      "party": "g-1-1-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-1-1-1",
+      "window": "obs-1-village",
+      "channel": "desk",
+      "party": "g-1-1-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-1-1-2",
+      "window": "obs-1-village",
+      "channel": "observer",
+      "party": "g-1-1-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-1-1-3",
+      "window": "obs-1-village",
+      "channel": "desk",
+      "party": "g-1-1-3",
+      "size": 6,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-1-2-0",
+      "window": "obs-1-craftyard",
+      "channel": "observer",
+      "party": "g-1-2-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-1-2",
+      "window": "obs-1-village",
+      "channel": "desk",
+      "party": "g-1-2-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-1-2-1",
+      "window": "obs-1-craftyard",
+      "channel": "desk",
+      "party": "g-1-2-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-1-2-2",
+      "window": "obs-1-craftyard",
+      "channel": "observer",
+      "party": "g-1-2-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-1-2-3",
+      "window": "obs-1-craftyard",
+      "channel": "desk",
+      "party": "g-1-2-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-2-0-0",
+      "window": "obs-2-square",
+      "channel": "observer",
+      "party": "g-2-0-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-2-0-1",
+      "window": "obs-2-square",
+      "channel": "desk",
+      "party": "g-2-0-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-2-0-2",
+      "window": "obs-2-square",
+      "channel": "observer",
+      "party": "g-2-0-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-2-0-3",
+      "window": "obs-2-square",
+      "channel": "desk",
+      "party": "g-2-0-3",
+      "size": 6,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-2-0-4",
+      "window": "obs-2-square",
+      "channel": "observer",
+      "party": "g-2-0-4",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-2-1-0",
+      "window": "obs-2-village",
+      "channel": "observer",
+      "party": "g-2-1-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-2-1-1",
+      "window": "obs-2-village",
+      "channel": "desk",
+      "party": "g-2-1-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-2-1-2",
+      "window": "obs-2-village",
+      "channel": "observer",
+      "party": "g-2-1-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-2-1-3",
+      "window": "obs-2-village",
+      "channel": "desk",
+      "party": "g-2-1-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-2-1-4",
+      "window": "obs-2-village",
+      "channel": "observer",
+      "party": "g-2-1-4",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-2-2-0",
+      "window": "obs-2-craftyard",
+      "channel": "observer",
+      "party": "g-2-2-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-2-2-1",
+      "window": "obs-2-craftyard",
+      "channel": "desk",
+      "party": "g-2-2-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-2-2-2",
+      "window": "obs-2-craftyard",
+      "channel": "observer",
+      "party": "g-2-2-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-2-2-3",
+      "window": "obs-2-craftyard",
+      "channel": "desk",
+      "party": "g-2-2-3",
+      "size": 8,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-2-2-4",
+      "window": "obs-2-craftyard",
+      "channel": "observer",
+      "party": "g-2-2-4",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-0-0",
+      "window": "obs-3-square",
+      "channel": "observer",
+      "party": "g-3-0-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-0-1",
+      "window": "obs-3-square",
+      "channel": "desk",
+      "party": "g-3-0-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-3-0-2",
+      "window": "obs-3-square",
+      "channel": "observer",
+      "party": "g-3-0-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-0-3",
+      "window": "obs-3-square",
+      "channel": "desk",
+      "party": "g-3-0-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-3-0-4",
+      "window": "obs-3-square",
+      "channel": "observer",
+      "party": "g-3-0-4",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-0-5",
+      "window": "obs-3-square",
+      "channel": "desk",
+      "party": "g-3-0-5",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-3-1-0",
+      "window": "obs-3-village",
+      "channel": "observer",
+      "party": "g-3-1-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-3-1-1",
+      "window": "obs-3-village",
+      "channel": "desk",
+      "party": "g-3-1-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-3-1-2",
+      "window": "obs-3-village",
+      "channel": "observer",
+      "party": "g-3-1-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-1-3",
+      "window": "obs-3-village",
+      "channel": "desk",
+      "party": "g-3-1-3",
+      "size": 8,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-3-1-4",
+      "window": "obs-3-village",
+      "channel": "observer",
+      "party": "g-3-1-4",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-3-1-5",
+      "window": "obs-3-village",
+      "channel": "desk",
+      "party": "g-3-1-5",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-3-2-0",
+      "window": "obs-3-craftyard",
+      "channel": "observer",
+      "party": "g-3-2-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-3-2-1",
+      "window": "obs-3-craftyard",
+      "channel": "desk",
+      "party": "g-3-2-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-3-2-2",
+      "window": "obs-3-craftyard",
+      "channel": "observer",
+      "party": "g-3-2-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-3-2-3",
+      "window": "obs-3-craftyard",
+      "channel": "desk",
+      "party": "g-3-2-3",
+      "size": 1,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-3-2-4",
+      "window": "obs-3-craftyard",
+      "channel": "observer",
+      "party": "g-3-2-4",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-3-2-5",
+      "window": "obs-3-craftyard",
+      "channel": "desk",
+      "party": "g-3-2-5",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-4-0-0",
+      "window": "obs-4-square",
+      "channel": "observer",
+      "party": "g-4-0-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-4-0",
+      "window": "obs-4-village",
+      "channel": "desk",
+      "party": "g-4-0-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-4-0-1",
+      "window": "obs-4-square",
+      "channel": "desk",
+      "party": "g-4-0-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-4-0-2",
+      "window": "obs-4-square",
+      "channel": "observer",
+      "party": "g-4-0-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-4-1-0",
+      "window": "obs-4-village",
+      "channel": "observer",
+      "party": "g-4-1-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-4-1",
+      "window": "obs-4-village",
+      "channel": "desk",
+      "party": "g-4-1-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-4-1-1",
+      "window": "obs-4-village",
+      "channel": "desk",
+      "party": "g-4-1-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-4-1-2",
+      "window": "obs-4-village",
+      "channel": "observer",
+      "party": "g-4-1-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-4-2-0",
+      "window": "obs-4-craftyard",
+      "channel": "observer",
+      "party": "g-4-2-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-4-2",
+      "window": "obs-4-village",
+      "channel": "desk",
+      "party": "g-4-2-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-4-2-1",
+      "window": "obs-4-craftyard",
+      "channel": "desk",
+      "party": "g-4-2-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-4-2-2",
+      "window": "obs-4-craftyard",
+      "channel": "observer",
+      "party": "g-4-2-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-5-0-0",
+      "window": "obs-5-square",
+      "channel": "observer",
+      "party": "g-5-0-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-5-0-1",
+      "window": "obs-5-square",
+      "channel": "desk",
+      "party": "g-5-0-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-5-0-2",
+      "window": "obs-5-square",
+      "channel": "observer",
+      "party": "g-5-0-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-5-0-3",
+      "window": "obs-5-square",
+      "channel": "desk",
+      "party": "g-5-0-3",
+      "size": 1,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-5-1-0",
+      "window": "obs-5-village",
+      "channel": "observer",
+      "party": "g-5-1-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-5-1-1",
+      "window": "obs-5-village",
+      "channel": "desk",
+      "party": "g-5-1-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-5-1-2",
+      "window": "obs-5-village",
+      "channel": "observer",
+      "party": "g-5-1-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-5-1-3",
+      "window": "obs-5-village",
+      "channel": "desk",
+      "party": "g-5-1-3",
+      "size": 2,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-5-2-0",
+      "window": "obs-5-craftyard",
+      "channel": "observer",
+      "party": "g-5-2-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-5-2-1",
+      "window": "obs-5-craftyard",
+      "channel": "desk",
+      "party": "g-5-2-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-5-2-2",
+      "window": "obs-5-craftyard",
+      "channel": "observer",
+      "party": "g-5-2-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-5-2-3",
+      "window": "obs-5-craftyard",
+      "channel": "desk",
+      "party": "g-5-2-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-6-0-0",
+      "window": "obs-6-square",
+      "channel": "observer",
+      "party": "g-6-0-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-6-0-1",
+      "window": "obs-6-square",
+      "channel": "desk",
+      "party": "g-6-0-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-6-0-2",
+      "window": "obs-6-square",
+      "channel": "observer",
+      "party": "g-6-0-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-6-0-3",
+      "window": "obs-6-square",
+      "channel": "desk",
+      "party": "g-6-0-3",
+      "size": 2,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-6-0-4",
+      "window": "obs-6-square",
+      "channel": "observer",
+      "party": "g-6-0-4",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-6-1-0",
+      "window": "obs-6-village",
+      "channel": "observer",
+      "party": "g-6-1-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-6-1-1",
+      "window": "obs-6-village",
+      "channel": "desk",
+      "party": "g-6-1-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-6-1-2",
+      "window": "obs-6-village",
+      "channel": "observer",
+      "party": "g-6-1-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-6-1-3",
+      "window": "obs-6-village",
+      "channel": "desk",
+      "party": "g-6-1-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-6-1-4",
+      "window": "obs-6-village",
+      "channel": "observer",
+      "party": "g-6-1-4",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-6-2-0",
+      "window": "obs-6-craftyard",
+      "channel": "observer",
+      "party": "g-6-2-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-6-2-1",
+      "window": "obs-6-craftyard",
+      "channel": "desk",
+      "party": "g-6-2-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-6-2-2",
+      "window": "obs-6-craftyard",
+      "channel": "observer",
+      "party": "g-6-2-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-6-2-3",
+      "window": "obs-6-craftyard",
+      "channel": "desk",
+      "party": "g-6-2-3",
+      "size": 4,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-6-2-4",
+      "window": "obs-6-craftyard",
+      "channel": "observer",
+      "party": "g-6-2-4",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-7-0-0",
+      "window": "obs-7-square",
+      "channel": "observer",
+      "party": "g-7-0-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-7-0",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-0-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-0-1",
+      "window": "obs-7-square",
+      "channel": "desk",
+      "party": "g-7-0-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-0-2",
+      "window": "obs-7-square",
+      "channel": "observer",
+      "party": "g-7-0-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-7-0-3",
+      "window": "obs-7-square",
+      "channel": "desk",
+      "party": "g-7-0-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-7-0-4",
+      "window": "obs-7-square",
+      "channel": "observer",
+      "party": "g-7-0-4",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-7-0-5",
+      "window": "obs-7-square",
+      "channel": "desk",
+      "party": "g-7-0-5",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-1-0",
+      "window": "obs-7-village",
+      "channel": "observer",
+      "party": "g-7-1-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-7-1",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-1-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-1-1",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-1-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-1-2",
+      "window": "obs-7-village",
+      "channel": "observer",
+      "party": "g-7-1-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-7-1-3",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-1-3",
+      "size": 4,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-1-4",
+      "window": "obs-7-village",
+      "channel": "observer",
+      "party": "g-7-1-4",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-7-1-5",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-1-5",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "follow-7-2",
+      "window": "obs-7-village",
+      "channel": "desk",
+      "party": "g-7-2-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-7-2-1",
+      "window": "obs-7-craftyard",
+      "channel": "desk",
+      "party": "g-7-2-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-7-2-3",
+      "window": "obs-7-craftyard",
+      "channel": "desk",
+      "party": "g-7-2-3",
+      "size": 5,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-7-2-5",
+      "window": "obs-7-craftyard",
+      "channel": "desk",
+      "party": "g-7-2-5",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-8-0-0",
+      "window": "obs-8-square",
+      "channel": "observer",
+      "party": "g-8-0-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-8-0-1",
+      "window": "obs-8-square",
+      "channel": "desk",
+      "party": "g-8-0-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-8-0-2",
+      "window": "obs-8-square",
+      "channel": "observer",
+      "party": "g-8-0-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-8-1-0",
+      "window": "obs-8-village",
+      "channel": "observer",
+      "party": "g-8-1-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-8-1-1",
+      "window": "obs-8-village",
+      "channel": "desk",
+      "party": "g-8-1-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-8-1-2",
+      "window": "obs-8-village",
+      "channel": "observer",
+      "party": "g-8-1-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-8-2-0",
+      "window": "obs-8-craftyard",
+      "channel": "observer",
+      "party": "g-8-2-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-8-2-1",
+      "window": "obs-8-craftyard",
+      "channel": "desk",
+      "party": "g-8-2-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-8-2-2",
+      "window": "obs-8-craftyard",
+      "channel": "observer",
+      "party": "g-8-2-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-9-0-0",
+      "window": "obs-9-square",
+      "channel": "observer",
+      "party": "g-9-0-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-9-0-1",
+      "window": "obs-9-square",
+      "channel": "desk",
+      "party": "g-9-0-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-9-0-2",
+      "window": "obs-9-square",
+      "channel": "observer",
+      "party": "g-9-0-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-9-0-3",
+      "window": "obs-9-square",
+      "channel": "desk",
+      "party": "g-9-0-3",
+      "size": 5,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-9-1-0",
+      "window": "obs-9-village",
+      "channel": "observer",
+      "party": "g-9-1-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-9-1-1",
+      "window": "obs-9-village",
+      "channel": "desk",
+      "party": "g-9-1-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-9-1-2",
+      "window": "obs-9-village",
+      "channel": "observer",
+      "party": "g-9-1-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-9-1-3",
+      "window": "obs-9-village",
+      "channel": "desk",
+      "party": "g-9-1-3",
+      "size": 6,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-9-2-0",
+      "window": "obs-9-craftyard",
+      "channel": "observer",
+      "party": "g-9-2-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-9-2-1",
+      "window": "obs-9-craftyard",
+      "channel": "desk",
+      "party": "g-9-2-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-9-2-2",
+      "window": "obs-9-craftyard",
+      "channel": "observer",
+      "party": "g-9-2-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-9-2-3",
+      "window": "obs-9-craftyard",
+      "channel": "desk",
+      "party": "g-9-2-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-0-0",
+      "window": "obs-10-square",
+      "channel": "observer",
+      "party": "g-10-0-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-10-0",
+      "window": "obs-10-village",
+      "channel": "desk",
+      "party": "g-10-0-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-0-1",
+      "window": "obs-10-square",
+      "channel": "desk",
+      "party": "g-10-0-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-0-2",
+      "window": "obs-10-square",
+      "channel": "observer",
+      "party": "g-10-0-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-10-0-3",
+      "window": "obs-10-square",
+      "channel": "desk",
+      "party": "g-10-0-3",
+      "size": 6,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-10-0-4",
+      "window": "obs-10-square",
+      "channel": "observer",
+      "party": "g-10-0-4",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-10-1-0",
+      "window": "obs-10-village",
+      "channel": "observer",
+      "party": "g-10-1-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-10-1",
+      "window": "obs-10-village",
+      "channel": "desk",
+      "party": "g-10-1-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-1-1",
+      "window": "obs-10-village",
+      "channel": "desk",
+      "party": "g-10-1-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-1-2",
+      "window": "obs-10-village",
+      "channel": "observer",
+      "party": "g-10-1-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-10-1-3",
+      "window": "obs-10-village",
+      "channel": "desk",
+      "party": "g-10-1-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-1-4",
+      "window": "obs-10-village",
+      "channel": "observer",
+      "party": "g-10-1-4",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-10-2-0",
+      "window": "obs-10-craftyard",
+      "channel": "observer",
+      "party": "g-10-2-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-10-2",
+      "window": "obs-10-village",
+      "channel": "desk",
+      "party": "g-10-2-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-2-1",
+      "window": "obs-10-craftyard",
+      "channel": "desk",
+      "party": "g-10-2-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-10-2-2",
+      "window": "obs-10-craftyard",
+      "channel": "observer",
+      "party": "g-10-2-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-10-2-3",
+      "window": "obs-10-craftyard",
+      "channel": "desk",
+      "party": "g-10-2-3",
+      "size": 8,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-10-2-4",
+      "window": "obs-10-craftyard",
+      "channel": "observer",
+      "party": "g-10-2-4",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-0-0",
+      "window": "obs-11-square",
+      "channel": "observer",
+      "party": "g-11-0-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-0-1",
+      "window": "obs-11-square",
+      "channel": "desk",
+      "party": "g-11-0-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-11-0-2",
+      "window": "obs-11-square",
+      "channel": "observer",
+      "party": "g-11-0-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-0-3",
+      "window": "obs-11-square",
+      "channel": "desk",
+      "party": "g-11-0-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-11-0-4",
+      "window": "obs-11-square",
+      "channel": "observer",
+      "party": "g-11-0-4",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-0-5",
+      "window": "obs-11-square",
+      "channel": "desk",
+      "party": "g-11-0-5",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-11-1-0",
+      "window": "obs-11-village",
+      "channel": "observer",
+      "party": "g-11-1-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-11-1-1",
+      "window": "obs-11-village",
+      "channel": "desk",
+      "party": "g-11-1-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-11-1-2",
+      "window": "obs-11-village",
+      "channel": "observer",
+      "party": "g-11-1-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-1-3",
+      "window": "obs-11-village",
+      "channel": "desk",
+      "party": "g-11-1-3",
+      "size": 8,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-11-1-4",
+      "window": "obs-11-village",
+      "channel": "observer",
+      "party": "g-11-1-4",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-11-1-5",
+      "window": "obs-11-village",
+      "channel": "desk",
+      "party": "g-11-1-5",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-11-2-0",
+      "window": "obs-11-craftyard",
+      "channel": "observer",
+      "party": "g-11-2-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-11-2-1",
+      "window": "obs-11-craftyard",
+      "channel": "desk",
+      "party": "g-11-2-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-11-2-2",
+      "window": "obs-11-craftyard",
+      "channel": "observer",
+      "party": "g-11-2-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-11-2-3",
+      "window": "obs-11-craftyard",
+      "channel": "desk",
+      "party": "g-11-2-3",
+      "size": 1,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-11-2-4",
+      "window": "obs-11-craftyard",
+      "channel": "observer",
+      "party": "g-11-2-4",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-11-2-5",
+      "window": "obs-11-craftyard",
+      "channel": "desk",
+      "party": "g-11-2-5",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-12-0-0",
+      "window": "obs-12-square",
+      "channel": "observer",
+      "party": "g-12-0-0",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-12-0-1",
+      "window": "obs-12-square",
+      "channel": "desk",
+      "party": "g-12-0-1",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-12-0-2",
+      "window": "obs-12-square",
+      "channel": "observer",
+      "party": "g-12-0-2",
+      "size": 7,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-12-1-0",
+      "window": "obs-12-village",
+      "channel": "observer",
+      "party": "g-12-1-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-12-1-1",
+      "window": "obs-12-village",
+      "channel": "desk",
+      "party": "g-12-1-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-12-1-2",
+      "window": "obs-12-village",
+      "channel": "observer",
+      "party": "g-12-1-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-12-2-0",
+      "window": "obs-12-craftyard",
+      "channel": "observer",
+      "party": "g-12-2-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-12-2-1",
+      "window": "obs-12-craftyard",
+      "channel": "desk",
+      "party": "g-12-2-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-12-2-2",
+      "window": "obs-12-craftyard",
+      "channel": "observer",
+      "party": "g-12-2-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-13-0-0",
+      "window": "obs-13-square",
+      "channel": "observer",
+      "party": "g-13-0-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-13-0",
+      "window": "obs-13-village",
+      "channel": "desk",
+      "party": "g-13-0-0",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-13-0-1",
+      "window": "obs-13-square",
+      "channel": "desk",
+      "party": "g-13-0-1",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-13-0-2",
+      "window": "obs-13-square",
+      "channel": "observer",
+      "party": "g-13-0-2",
+      "size": 8,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-13-0-3",
+      "window": "obs-13-square",
+      "channel": "desk",
+      "party": "g-13-0-3",
+      "size": 1,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-13-1-0",
+      "window": "obs-13-village",
+      "channel": "observer",
+      "party": "g-13-1-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-13-1",
+      "window": "obs-13-village",
+      "channel": "desk",
+      "party": "g-13-1-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-13-1-1",
+      "window": "obs-13-village",
+      "channel": "desk",
+      "party": "g-13-1-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-13-1-2",
+      "window": "obs-13-village",
+      "channel": "observer",
+      "party": "g-13-1-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-13-1-3",
+      "window": "obs-13-village",
+      "channel": "desk",
+      "party": "g-13-1-3",
+      "size": 2,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-13-2-0",
+      "window": "obs-13-craftyard",
+      "channel": "observer",
+      "party": "g-13-2-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-13-2",
+      "window": "obs-13-village",
+      "channel": "desk",
+      "party": "g-13-2-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-13-2-1",
+      "window": "obs-13-craftyard",
+      "channel": "desk",
+      "party": "g-13-2-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-13-2-2",
+      "window": "obs-13-craftyard",
+      "channel": "observer",
+      "party": "g-13-2-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-13-2-3",
+      "window": "obs-13-craftyard",
+      "channel": "desk",
+      "party": "g-13-2-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-14-0-0",
+      "window": "obs-14-square",
+      "channel": "observer",
+      "party": "g-14-0-0",
+      "size": 7,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-14-0-1",
+      "window": "obs-14-square",
+      "channel": "desk",
+      "party": "g-14-0-1",
+      "size": 8,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-14-0-2",
+      "window": "obs-14-square",
+      "channel": "observer",
+      "party": "g-14-0-2",
+      "size": 1,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-14-0-3",
+      "window": "obs-14-square",
+      "channel": "desk",
+      "party": "g-14-0-3",
+      "size": 2,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-14-0-4",
+      "window": "obs-14-square",
+      "channel": "observer",
+      "party": "g-14-0-4",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-14-1-0",
+      "window": "obs-14-village",
+      "channel": "observer",
+      "party": "g-14-1-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-14-1-1",
+      "window": "obs-14-village",
+      "channel": "desk",
+      "party": "g-14-1-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-14-1-2",
+      "window": "obs-14-village",
+      "channel": "observer",
+      "party": "g-14-1-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-14-1-3",
+      "window": "obs-14-village",
+      "channel": "desk",
+      "party": "g-14-1-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-14-1-4",
+      "window": "obs-14-village",
+      "channel": "observer",
+      "party": "g-14-1-4",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-14-2-1",
+      "window": "obs-14-craftyard",
+      "channel": "desk",
+      "party": "g-14-2-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-14-2-3",
+      "window": "obs-14-craftyard",
+      "channel": "desk",
+      "party": "g-14-2-3",
+      "size": 4,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-15-0-0",
+      "window": "obs-15-square",
+      "channel": "observer",
+      "party": "g-15-0-0",
+      "size": 8,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-15-0-1",
+      "window": "obs-15-square",
+      "channel": "desk",
+      "party": "g-15-0-1",
+      "size": 1,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-15-0-2",
+      "window": "obs-15-square",
+      "channel": "observer",
+      "party": "g-15-0-2",
+      "size": 2,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-15-0-3",
+      "window": "obs-15-square",
+      "channel": "desk",
+      "party": "g-15-0-3",
+      "size": 3,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-15-0-4",
+      "window": "obs-15-square",
+      "channel": "observer",
+      "party": "g-15-0-4",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-15-0-5",
+      "window": "obs-15-square",
+      "channel": "desk",
+      "party": "g-15-0-5",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-15-1-0",
+      "window": "obs-15-village",
+      "channel": "observer",
+      "party": "g-15-1-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-15-1-1",
+      "window": "obs-15-village",
+      "channel": "desk",
+      "party": "g-15-1-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-15-1-2",
+      "window": "obs-15-village",
+      "channel": "observer",
+      "party": "g-15-1-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-15-1-3",
+      "window": "obs-15-village",
+      "channel": "desk",
+      "party": "g-15-1-3",
+      "size": 4,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-15-1-4",
+      "window": "obs-15-village",
+      "channel": "observer",
+      "party": "g-15-1-4",
+      "size": 5,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-15-1-5",
+      "window": "obs-15-village",
+      "channel": "desk",
+      "party": "g-15-1-5",
+      "size": 6,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-15-2-0",
+      "window": "obs-15-craftyard",
+      "channel": "observer",
+      "party": "g-15-2-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-15-2-1",
+      "window": "obs-15-craftyard",
+      "channel": "desk",
+      "party": "g-15-2-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-15-2-2",
+      "window": "obs-15-craftyard",
+      "channel": "observer",
+      "party": "g-15-2-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-15-2-3",
+      "window": "obs-15-craftyard",
+      "channel": "desk",
+      "party": "g-15-2-3",
+      "size": 5,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-15-2-4",
+      "window": "obs-15-craftyard",
+      "channel": "observer",
+      "party": "g-15-2-4",
+      "size": 6,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-15-2-5",
+      "window": "obs-15-craftyard",
+      "channel": "desk",
+      "party": "g-15-2-5",
+      "size": 7,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-16-0-0",
+      "window": "obs-16-square",
+      "channel": "observer",
+      "party": "g-16-0-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "follow-16-0",
+      "window": "obs-16-village",
+      "channel": "desk",
+      "party": "g-16-0-0",
+      "size": 1,
+      "requested": "language-x",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-16-0-1",
+      "window": "obs-16-square",
+      "channel": "desk",
+      "party": "g-16-0-1",
+      "size": 2,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-16-0-2",
+      "window": "obs-16-square",
+      "channel": "observer",
+      "party": "g-16-0-2",
+      "size": 3,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-16-1-0",
+      "window": "obs-16-village",
+      "channel": "observer",
+      "party": "g-16-1-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-16-1",
+      "window": "obs-16-village",
+      "channel": "desk",
+      "party": "g-16-1-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-16-1-1",
+      "window": "obs-16-village",
+      "channel": "desk",
+      "party": "g-16-1-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-16-1-2",
+      "window": "obs-16-village",
+      "channel": "observer",
+      "party": "g-16-1-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-16-2-0",
+      "window": "obs-16-craftyard",
+      "channel": "observer",
+      "party": "g-16-2-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "follow-16-2",
+      "window": "obs-16-village",
+      "channel": "desk",
+      "party": "g-16-2-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [
+        "language-y"
+      ],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-16-2-1",
+      "window": "obs-16-craftyard",
+      "channel": "desk",
+      "party": "g-16-2-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-16-2-2",
+      "window": "obs-16-craftyard",
+      "channel": "observer",
+      "party": "g-16-2-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-17-0-0",
+      "window": "obs-17-square",
+      "channel": "observer",
+      "party": "g-17-0-0",
+      "size": 2,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-17-0-1",
+      "window": "obs-17-square",
+      "channel": "desk",
+      "party": "g-17-0-1",
+      "size": 3,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-17-0-2",
+      "window": "obs-17-square",
+      "channel": "observer",
+      "party": "g-17-0-2",
+      "size": 4,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-17-0-3",
+      "window": "obs-17-square",
+      "channel": "desk",
+      "party": "g-17-0-3",
+      "size": 5,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-17-1-0",
+      "window": "obs-17-village",
+      "channel": "observer",
+      "party": "g-17-1-0",
+      "size": 3,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": false
+    },
+    {
+      "id": "req-17-1-1",
+      "window": "obs-17-village",
+      "channel": "desk",
+      "party": "g-17-1-1",
+      "size": 4,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-17-1-2",
+      "window": "obs-17-village",
+      "channel": "observer",
+      "party": "g-17-1-2",
+      "size": 5,
+      "requested": "language-z",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-17-1-3",
+      "window": "obs-17-village",
+      "channel": "desk",
+      "party": "g-17-1-3",
+      "size": 6,
+      "requested": "language-x",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    },
+    {
+      "id": "req-17-2-0",
+      "window": "obs-17-craftyard",
+      "channel": "observer",
+      "party": "g-17-2-0",
+      "size": 4,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-17-2-1",
+      "window": "obs-17-craftyard",
+      "channel": "desk",
+      "party": "g-17-2-1",
+      "size": 5,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": true
+    },
+    {
+      "id": "req-17-2-2",
+      "window": "obs-17-craftyard",
+      "channel": "observer",
+      "party": "g-17-2-2",
+      "size": 6,
+      "requested": null,
+      "accepted_alternatives": [],
+      "answered": false,
+      "arrived": false
+    },
+    {
+      "id": "req-17-2-3",
+      "window": "obs-17-craftyard",
+      "channel": "desk",
+      "party": "g-17-2-3",
+      "size": 7,
+      "requested": "language-y",
+      "accepted_alternatives": [],
+      "answered": true,
+      "arrived": true
+    }
+  ],
+  "walk_times": [
+    {
+      "a": "square",
+      "b": "village",
+      "minutes": 12
+    },
+    {
+      "a": "square",
+      "b": "craftyard",
+      "minutes": 7
+    },
+    {
+      "a": "village",
+      "b": "craftyard",
+      "minutes": 9
+    }
+  ],
+  "roster": [
+    {
+      "id": "i-x",
+      "languages": [
+        "language-x"
+      ],
+      "slots": [
+        "10:00-11:10"
+      ],
+      "headcount": 10
+    },
+    {
+      "id": "i-yz",
+      "languages": [
+        "language-y",
+        "language-z"
+      ],
+      "slots": [
+        "10:00-11:30"
+      ],
+      "headcount": 12
+    },
+    {
+      "id": "i-xz",
+      "languages": [
+        "language-x",
+        "language-z"
+      ],
+      "slots": [
+        "10:20-11:30"
+      ],
+      "headcount": 9
+    }
+  ],
+  "service_slots": [
+    {
+      "id": "s-a",
+      "site": "square",
+      "start": "10:00",
+      "end": "10:25"
+    },
+    {
+      "id": "s-b",
+      "site": "village",
+      "start": "10:32",
+      "end": "10:57"
+    },
+    {
+      "id": "s-c",
+      "site": "craftyard",
+      "start": "11:02",
+      "end": "11:25"
+    }
+  ],
+  "weekly_floor": [
+    {
+      "language": "language-z",
+      "min_groups_served": 2
+    }
+  ],
+  "commitments": [
+    {
+      "id": "commit-a",
+      "group": "g-4-0-0",
+      "speaker": "i-x",
+      "session": "s-a",
+      "state": "signed"
+    },
+    {
+      "id": "commit-b",
+      "group": "g-5-1-0",
+      "speaker": "i-yz",
+      "session": "s-b",
+      "state": "signed"
+    }
+  ],
+  "duty_changes": [
+    {
+      "speaker": "i-x",
+      "unavailable_from": "10:05",
+      "unavailable_until": "11:00",
+      "reported_at": "09:42"
+    }
+  ]
+}
